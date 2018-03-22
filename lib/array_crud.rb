@@ -3,11 +3,11 @@ def create_an_empty_array
 end
 
 def create_an_array
-  ["dog", "cat", "hamster", "bunny"]
+  [dog, cat, hamster, bunny]
 end
 
 def add_element_to_end_of_array(array, element)
-  array.push("bird")
+  array.push(bird)
 end
 
 def add_element_to_start_of_array(array, element)
